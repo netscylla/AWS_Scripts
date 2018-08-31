@@ -1,7 +1,7 @@
 #!/us/bin/python3
 # Hunt Unristricted Egress to 0.0.0.0/0
 # Licensed under GPL v3
-# Copyright Netscylla
+# Copyright 2018 Netscylla
 
 import boto3
 
