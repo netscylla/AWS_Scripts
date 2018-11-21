@@ -1,4 +1,4 @@
-#!/us/bin/python3
+#!/usr/bin/python3
 # Hunt unrestricted ingress from 0.0.0.0/0
 # Licensed under GPLv3
 # Copyright 2018 Netscylla
