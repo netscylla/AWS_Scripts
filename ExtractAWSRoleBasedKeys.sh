@@ -1,4 +1,6 @@
 #!/bin/sh
+# (C)2018 Netscylla
+# License GNU GPL v3.0
 
 ROLENAME=$(curl http://169.254.169.254/latest/meta-data/iam/security-credentials/ -s)
 KeyURL="http://169.254.169.254/latest/meta-data/iam/security-credentials/"$ROLENAME"/"
